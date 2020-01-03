@@ -23,10 +23,10 @@ def monopoly_with_third_tier
        :four_pieces_owned => 200,
      },
      :names => {
-       :key1 => "something",
-       :key2 => "something else",
-       :key3 => "a third thing",
-       :key4 => "the last thing",
+       :reading_railroad => {}},
+       :key2 => {}},
+       :key3 => {},
+       :key4 => {},
      }
    }
  }
