@@ -7,7 +7,7 @@ end
 def monopoly_with_second_tier
  newhash = {
    railroads: newhash2 = {
-     :pieces => something
+     :pieces => "something"
    }
  }
 end
