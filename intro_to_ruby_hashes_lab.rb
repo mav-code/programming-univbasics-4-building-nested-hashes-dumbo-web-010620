@@ -17,11 +17,12 @@ def monopoly_with_third_tier
    railroads: newhash2 = {
      :pieces => 4,
      :rent_in_dollars => {
-       :names => "something",
+       :key1 => "something",
        :key2 => "something else",
        :key3 => "a third thing",
        :key4 => "the last thing",
      },
+     :names => {}
    }
  }
 end
