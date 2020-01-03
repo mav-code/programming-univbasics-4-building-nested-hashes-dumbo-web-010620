@@ -18,8 +18,8 @@ def monopoly_with_third_tier
      :pieces => 4,
      :rent_in_dollars => {
        :one_piece_owned => 25,
-       :key2 => "something else",
-       :key3 => "a third thing",
+       :two_pieces_owned => "something else",
+       :two_pieces_owned => "a third thing",
        :key4 => "the last thing",
      },
      :names => {
