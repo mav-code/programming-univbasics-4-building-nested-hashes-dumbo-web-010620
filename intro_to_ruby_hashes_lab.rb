@@ -27,6 +27,7 @@ def monopoly_with_third_tier
        :pennsylvania_railroad => {},
        :short_line_railroad => {},
        :b_and_o_railroad => {},
+   }
      }
    }
  }
