@@ -1,6 +1,6 @@
 def base_hash
  newhash = {
-   railroads: 
+   railroads: newhash2 = {}
  }
 end
 
